@@ -156,4 +156,4 @@ The notebook concludes with producing abudnace trends from all the sites within 
 We have found these patterns consistent with the findings from previously used manual counts and bucket-light traps!
 
 -------------------------------------------------------------------------------------------------
-We are curious to find out about your local Lepidoptera Abundance patterns.
+We are curious to find out about your local Lepidoptera Abundance patterns!
