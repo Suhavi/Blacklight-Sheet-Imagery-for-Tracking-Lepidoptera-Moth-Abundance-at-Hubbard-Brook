@@ -8,7 +8,7 @@ This repository uses blacklight-sheet invertebrate imagery from the Hubbard Broo
 
 ## What’s in this repository
 
-- **Data access**: scripts to fetch the full EDI data package (ZIP) using the DOI  
+- **Data access**: Fetch the full EDI data package (ZIP) using the DOI  
 - **Inference**: object detection + NMS to produce detections from images  
 - **Aggregation**: detections → counts → site-level time series  
 - **Results**: plots/figures to visualize trends and compare across sites  
@@ -146,7 +146,7 @@ For a Size and mass estimation of the moths captured by YOLOv11, we mapped bound
 
 ### Results
 
-The notebook concludes with producing abudnace trends from all the sites within the year input or the specified time-frame, as below:
+The notebook concludes with producing abudance trends from all the sites within the year input or the specified time-frame, as below:
 
 ![Bin 1](outputs/bin1.png)
 ![Bin 2](outputs/bin2.png)
